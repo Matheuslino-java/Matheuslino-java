@@ -1,16 +1,28 @@
-## Hi 👋
+<h1 align="center">Hi there 👋, I'm Matheus Lino</h1>
 
-<!--
-**Matheuslino-java/Matheuslino-java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 About Me
 
-Here are some ideas to get you started:
+- My name is **Matheus**, also known as **Ilkini** (my artistic name).
+- I'm a passionate developer, artist, and creator from **Brazil** 🇧🇷.
+- Currently a student and workinf at **Itaú Unibanco**
+ always learning and exploring new ideas.
+- I love building creative projects and helping others through code and design.
+- I'm actively looking for opportunities to collaborate and grow professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Goals
+
+- Improve my programming and artistic skills.
+- Contribute to open-source projects.
+- Connect with other creative minds around the world.
+
+---
+
+### 🌐 More About Me
+
+- 📧 Email: [matheuslinodossantos@hotmail.com]
+- 🌐 Portfolio Art: [[artistation.com]](https://www.artstation.com/ilkini)
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
